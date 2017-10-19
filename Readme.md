@@ -15,6 +15,11 @@ Given an exercise and an input string, the program:
   * prints, whether the input could be derived from the start-nonterminal or not.
 
 
+## Demo
+
+![demo](https://user-images.githubusercontent.com/28357058/31761702-2040c956-b4b9-11e7-823e-98fd82b6645d.gif)
+
+
 ## Build
 
 To build the project, enter:
